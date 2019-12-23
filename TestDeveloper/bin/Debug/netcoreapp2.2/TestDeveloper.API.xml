@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestDeveloper.API</name>
+    </assembly>
+    <members>
+        <member name="M:TestDeveloper.API.Controllers.CreditCardsController.Post(TestDeveloper.API.NewFolder.CardViewModel)">
+            <summary>
+            Post credit card number and cvv code to generate token
+            </summary>
+            <returns>Os itens da To-do list</returns>
+            <response code="200">Return token, array smaller 4 and array with rotation values</response>
+        </member>
+        <member name="M:TestDeveloper.API.Controllers.TokenValidationsController.Get(System.String)">
+            <summary>
+            Get validation by token
+            </summary>
+            <returns>If token is true or false</returns>
+            <response code="200">True</response>
+        </member>
+    </members>
+</doc>

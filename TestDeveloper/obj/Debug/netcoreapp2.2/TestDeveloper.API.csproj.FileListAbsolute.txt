@@ -12,3 +12,5 @@ C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\
 C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.RazorTargetAssemblyInfo.cache
 C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.dll
 C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.pdb
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.xml
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.xml

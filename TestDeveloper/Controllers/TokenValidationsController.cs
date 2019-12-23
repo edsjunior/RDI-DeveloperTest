@@ -19,14 +19,12 @@ namespace TestDeveloper.API.Controllers
 		private static readonly System.Runtime.Caching.MemoryCache _cache = System.Runtime.Caching.MemoryCache.Default;
 		private static int dateLength = 12;
 
-		// GET: api/TokenValidations
-		[HttpGet]
-		public IEnumerable<string> Get()
-		{
-			return new string[] { "Developer Test - Esdras M." };
-		}
-
 		// GET: api/TokenValidations/5
+		/// <summary>
+		/// Get validation by token
+		/// </summary>
+		/// <returns>If token is true or false</returns>
+		/// <response code="200">True</response>
 		[HttpGet("{tokenId}", Name = "Get")]
 		public async Task<IActionResult> Get(string tokenId)
 		{

@@ -20,14 +20,12 @@ namespace TestDeveloper.API.Controllers
 		private static int cardLength = 16;
 		private static int dateLength = 12;
 
-		// GET api/CreditCards
-		[HttpGet]
-		public ActionResult<IEnumerable<string>> Get()
-		{
-			return new string[] { "Developer Test - Esdras M." };
-		}
-
 		// POST api/CreditCards
+		/// <summary>
+		/// Post credit card number and cvv code to generate token
+		/// </summary>
+		/// <returns>Os itens da To-do list</returns>
+		/// <response code="200">Return token, array smaller 4 and array with rotation values</response>
 		[HttpPost]
 		public ActionResult<string> Post([FromBody] CardViewModel card)
 		{
