@@ -1,0 +1,14 @@
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.deps.json
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.runtimeconfig.json
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.runtimeconfig.dev.json
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.dll
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\bin\Debug\netcoreapp2.2\TestDeveloper.API.pdb
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.csprojAssemblyReference.cache
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.csproj.CoreCompileInputs.cache
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.RazorAssemblyInfo.cache
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.RazorAssemblyInfo.cs
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.AssemblyInfoInputs.cache
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.AssemblyInfo.cs
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.RazorTargetAssemblyInfo.cache
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.dll
+C:\Users\EMARCELINO\Downloads\RDI-TestSoftwareDeveloper\TestDeveloper\obj\Debug\netcoreapp2.2\TestDeveloper.API.pdb
